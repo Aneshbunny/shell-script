@@ -2,4 +2,4 @@
 NUM1=450
 NUM2=550
 SUM=$((SUM1+SUM2))
-echo"Sum is:$SUM" 
+echo "Sum is:$SUM" 
